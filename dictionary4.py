@@ -5,7 +5,7 @@ while d:
     print (key, '-->', value)
 
 print('-----')
-# door pipitem is alles weg
+# door popitem is alles weg
 print(d)
 
 # The popitem() method removes the item that was last inserted into the dictionary. 
